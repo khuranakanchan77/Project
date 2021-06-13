@@ -1,3 +1,3 @@
 Edureka DevOps WebApp
 
-Certification Project for Edureka DevOps
+Certification Project WebApp for Edureka DevOps
